@@ -9,7 +9,7 @@ released under an open license to be used by anyone for research.
 * more to come
 
 This repository is always evolving.
-Follow along with the pull requests to get updates.
+Watch this repository and follow along with the pull requests to get updates.
 
 ## Data quality
 
@@ -24,3 +24,10 @@ This is a “share-alike” license, meaning that
 if you distribute a work that builds upon this data,
 you must make it available under the same license
 in order to maintain the same freedoms for others.
+
+## Attribution
+
+It is requested that users of this data include a link to this repository
+(<https://github.com/quizbowl/open-data>) or another comparable citation,
+and, if applicable, a link to the specific version of the data used.
+It is recommended that apps be able to easily plug in a new version of the data.
