@@ -6,6 +6,7 @@ released under an open license to be used by anyone for research.
 ## Repository contents
 
 * `detailed-stats` – Detailed stats from specific tournaments
+* `annotated-packets` – Annotated packets for tracking buzz points
 * more to come
 
 This repository is always evolving.
