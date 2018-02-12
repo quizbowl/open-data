@@ -2541,7 +2541,7 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Connecticut	7	1	A	13	luck	131	RMPSS	Philosophy		Columbia B	Koh Yamakawa	-5	88	0.672			
 2018-01-20	Connecticut	7	1	A	14	energy	122	Science	Physics		Columbia B	Koh Yamakawa	10	122	1.0			
 2018-01-20	Connecticut	7	1	A	15	Japan	149	Literature	Long Fiction		Columbia B	Waleed Ali	10	148	0.993			
-2018-01-20	Connecticut	7	1	A	19	Theravada Buddhism	130	RMPSS	Religion		Columbia B	Waleed Ali	-5	144	1.108			
+2018-01-20	Connecticut	7	1	A	19	Theravada Buddhism	130	RMPSS	Religion		Columbia B	Waleed Ali	-5	129	0.992			
 2018-01-20	Connecticut	7	1	A	3	herpes simplex virus	136	Science	Biology		Yale C	Stefan D'Sa	10	129	0.949			
 2018-01-20	Connecticut	7	1	A	4	Jorge Luis Borges	161	Literature	Short Fiction		Yale C	Stefan D'Sa	10	125	0.776	bounceback		
 2018-01-20	Connecticut	7	1	A	5	bassoon	139	Arts	Music		Yale C	Bo You	10	136	0.978	bounceback		
@@ -2552,7 +2552,7 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Connecticut	7	1	A	16	matches	134	History	Continental European History (post-600 CE)		Yale C	Bo You	-5	105	0.784			
 2018-01-20	Connecticut	7	1	A	17	Cuba	132	Arts	Other Art	Jazz	Yale C	Stefan D'Sa	10	132	1.0			
 2018-01-20	Connecticut	7	1	A	18	catalysts	140	Science	Chemistry		Yale C	Bo You	10	139	0.993			
-2018-01-20	Connecticut	7	1	A	20	Idi Amin Dada	120	History	Other History		Yale C	Stefan D'Sa	10	133	1.108			
+2018-01-20	Connecticut	7	1	A	20	Idi Amin Dada	120	History	Other History		Yale C	Stefan D'Sa	10	120	1.0			
 2018-01-20	Connecticut	7	2	B	2	Walden	143	Literature	Miscellaneous Lit		Boston College	John Marvin	10	116	0.811			
 2018-01-20	Connecticut	7	2	B	3	Boreas	137	RMPSS	Mythology		Boston College	Michael Finnegan	10	137	1.0	bounceback		
 2018-01-20	Connecticut	7	2	B	7	Posner	146	RMPSS	Social Science		Boston College	John Marvin	-5	105	0.719			
@@ -5253,7 +5253,7 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Penn State	1	11	K	2	Gaetano Donizetti	154	Arts	Other Art	Opera	Johns Hopkins B	Forrest Hammel	10	147	0.955			
 2018-01-20	Penn State	1	11	K	3	Helen of Troy	161	Literature	Drama		Johns Hopkins B	Forrest Hammel	10	82	0.509			
 2018-01-20	Penn State	1	11	K	4	shōgun	140	History	Other History		Johns Hopkins B	Walter Zhao	10	140	1.0	bounceback		
-2018-01-20	Penn State	1	11	K	5	honey	135	RMPSS	Mythology		Johns Hopkins B	Forrest Hammel	10	38	0.281			
+2018-01-20	Penn State	1	11	K	5	honey	135	RMPSS	Mythology		Johns Hopkins B	Joseph Cleary	10	38	0.281			
 2018-01-20	Penn State	1	11	K	7	characteristic	145	Science	Other Science	Math	Johns Hopkins B	Joseph Cleary	10	131	0.903			
 2018-01-20	Penn State	1	11	K	9	photons	135	Science	Physics		Johns Hopkins B	Joseph Cleary	10	80	0.593			
 2018-01-20	Penn State	1	11	K	11	Egypt	136	History	Continental European History (post-600 CE)		Johns Hopkins B	Tommy Tripp	-5	42	0.309			
@@ -5603,7 +5603,7 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Penn State	3	3	N	13	competition	134	Science	Biology		Johns Hopkins B	Walter Zhao	10	96	0.716			
 2018-01-20	Penn State	3	3	N	14	the Mesoamerican ballgame	144	RMPSS	Mythology		Johns Hopkins B	Walter Zhao	10	69	0.479			
 2018-01-20	Penn State	3	3	N	15	banners	148	History	Other History		Johns Hopkins B	Tommy Tripp	10	127	0.858			
-2018-01-20	Penn State	3	3	N	16	ionosphere	125	Science	Other Science	Earth Science	Johns Hopkins B	Forrest Hammel	10	48	0.384			
+2018-01-20	Penn State	3	3	N	16	ionosphere	125	Science	Other Science	Earth Science	Johns Hopkins B	Joseph Cleary	10	48	0.384			
 2018-01-20	Penn State	3	3	N	17	Chinua Achebe	157	Literature	Long Fiction		Johns Hopkins B	Walter Zhao	-5	119	0.758			
 2018-01-20	Penn State	3	4	I	1	Polish hussars	141	History	Continental European History (post-600 CE)		Carnegie Mellon C	Sebastien La Duca	10	137	0.972			
 2018-01-20	Penn State	3	4	I	3	quantum fields	141	Science	Physics		Carnegie Mellon C	Sebastien La Duca	10	141	1.0			
@@ -5683,29 +5683,29 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Penn State	3	6	F	16	Bedřich Smetana	157	Arts	Music		Rutgers B	Anton Maliev	-5	134	0.854			
 2018-01-20	Penn State	3	6	F	17	Catherine de Medici	140	History	Continental European History (post-600 CE)		Rutgers B	Pratik Mishra	-5	111	0.793			
 2018-01-20	Penn State	3	6	F	19	The Concept of Mind	140	RMPSS	Philosophy		Rutgers B	Mohin Chanpura	0	140	1.0			
-2018-01-20	Penn State	3	7	E	1	The Barber of Seville	139	Arts	Other Art	Opera	Youngstown State	Pranav Padmannabhan	10			bounceback		
-2018-01-20	Penn State	3	7	E	3	Marduk	139	RMPSS	Mythology		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	5	valediction	167	Literature	Non-Epic Poetry		Youngstown State	Pranav Padmannabhan	10			bounceback		
-2018-01-20	Penn State	3	7	E	8	electron transport chain	140	Science	Biology		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	12	United States Department of Agriculture	138	History	US History		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	13	Guy de Maupassant	154	Literature	Short Fiction		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	14	money supply	123	RMPSS	Social Science		Youngstown State	Anthony Peterson	10			bounceback		
-2018-01-20	Penn State	3	7	E	17	Mongols	157	History	Other History		Youngstown State	Andrew Skiba	10					
-2018-01-20	Penn State	3	7	E	18	the Sun	129	RMPSS	Religion		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	19	Oscar Wilde	150	Literature	Miscellaneous Lit		Youngstown State	Pranav Padmannabhan	10					
-2018-01-20	Penn State	3	7	E	1	The Barber of Seville	139	Arts	Other Art	Opera	Rutgers B	Jabez Wesley	-5					
-2018-01-20	Penn State	3	7	E	2	seed vaults	130	Other	Geography		Rutgers B	Jabez Wesley	10					
-2018-01-20	Penn State	3	7	E	4	Riemann hypothesis	142	Science	Other Science	Math	Rutgers B	Anton Maliev	10					
-2018-01-20	Penn State	3	7	E	5	valediction	167	Literature	Non-Epic Poetry		Rutgers B	Jabez Wesley	-5					
-2018-01-20	Penn State	3	7	E	6	Ghent Altarpiece	135	Arts	Painting/Sculpture		Rutgers B	Pratik Mishra	10					
-2018-01-20	Penn State	3	7	E	7	Germany	140	History	Historiography and Archaeology		Rutgers B	Jabez Wesley	10					
-2018-01-20	Penn State	3	7	E	9	outbreaks of bubonic plague	128	History	Continental European History (post-600 CE)		Rutgers B	Jabez Wesley	10					
-2018-01-20	Penn State	3	7	E	10	Moby Dick	145	Literature	Long Fiction		Rutgers B	Anton Maliev	10					
-2018-01-20	Penn State	3	7	E	11	electric potential	136	Science	Physics		Rutgers B	Anton Maliev	10					
-2018-01-20	Penn State	3	7	E	14	money supply	123	RMPSS	Social Science		Rutgers B	Jabez Wesley	-5					
-2018-01-20	Penn State	3	7	E	15	Felix Mendelssohn	144	Arts	Music		Rutgers B	Jabez Wesley	10					
-2018-01-20	Penn State	3	7	E	16	cyclohexane	126	Science	Chemistry		Rutgers B	Anton Maliev	10					
-2018-01-20	Penn State	3	7	E	20	Socrates	147	RMPSS	Philosophy		Rutgers B	Jabez Wesley	10					
+2018-01-20	Penn State	3	7	E	1	The Barber of Seville	139	Arts	Other Art	Opera	Youngstown State	Pranav Padmannabhan	10	139	1.0	bounceback		
+2018-01-20	Penn State	3	7	E	3	Marduk	139	RMPSS	Mythology		Youngstown State	Pranav Padmannabhan	10	139	1.0			
+2018-01-20	Penn State	3	7	E	5	valediction	167	Literature	Non-Epic Poetry		Youngstown State	Pranav Padmannabhan	10	167	1.0	bounceback		
+2018-01-20	Penn State	3	7	E	8	electron transport chain	140	Science	Biology		Youngstown State	Pranav Padmannabhan	10	107	0.764			
+2018-01-20	Penn State	3	7	E	12	United States Department of Agriculture	138	History	US History		Youngstown State	Pranav Padmannabhan	10	117	0.848			
+2018-01-20	Penn State	3	7	E	13	Guy de Maupassant	154	Literature	Short Fiction		Youngstown State	Pranav Padmannabhan	10	151	0.981			
+2018-01-20	Penn State	3	7	E	14	money supply	123	RMPSS	Social Science		Youngstown State	Anthony Peterson	10	123	1.0	bounceback		
+2018-01-20	Penn State	3	7	E	17	Mongols	157	History	Other History		Youngstown State	Andrew Skiba	10	62	0.395			
+2018-01-20	Penn State	3	7	E	18	the Sun	129	RMPSS	Religion		Youngstown State	Pranav Padmannabhan	10	109	0.845			
+2018-01-20	Penn State	3	7	E	19	Oscar Wilde	150	Literature	Miscellaneous Lit		Youngstown State	Pranav Padmannabhan	10	108	0.72			
+2018-01-20	Penn State	3	7	E	1	The Barber of Seville	139	Arts	Other Art	Opera	Rutgers B	Jabez Wesley	-5	117	0.842			
+2018-01-20	Penn State	3	7	E	2	seed vaults	130	Other	Geography		Rutgers B	Jabez Wesley	10	102	0.785			
+2018-01-20	Penn State	3	7	E	4	Riemann hypothesis	142	Science	Other Science	Math	Rutgers B	Anton Maliev	10	119	0.838			
+2018-01-20	Penn State	3	7	E	5	valediction	167	Literature	Non-Epic Poetry		Rutgers B	Jabez Wesley	-5	163	0.976			
+2018-01-20	Penn State	3	7	E	6	Ghent Altarpiece	135	Arts	Painting/Sculpture		Rutgers B	Pratik Mishra	10	135	1.0			
+2018-01-20	Penn State	3	7	E	7	Germany	140	History	Historiography and Archaeology		Rutgers B	Jabez Wesley	10	140	1.0			
+2018-01-20	Penn State	3	7	E	9	outbreaks of bubonic plague	128	History	Continental European History (post-600 CE)		Rutgers B	Jabez Wesley	10	104	0.813			
+2018-01-20	Penn State	3	7	E	10	Moby Dick	145	Literature	Long Fiction		Rutgers B	Anton Maliev	10	136	0.938			
+2018-01-20	Penn State	3	7	E	11	electric potential	136	Science	Physics		Rutgers B	Anton Maliev	10	128	0.941			
+2018-01-20	Penn State	3	7	E	14	money supply	123	RMPSS	Social Science		Rutgers B	Jabez Wesley	-5	47	0.382			
+2018-01-20	Penn State	3	7	E	15	Felix Mendelssohn	144	Arts	Music		Rutgers B	Jabez Wesley	10	135	0.938			
+2018-01-20	Penn State	3	7	E	16	cyclohexane	126	Science	Chemistry		Rutgers B	Anton Maliev	10	121	0.96			
+2018-01-20	Penn State	3	7	E	20	Socrates	147	RMPSS	Philosophy		Rutgers B	Jabez Wesley	10	53	0.361			
 2018-01-20	Penn State	3	8	H	2	Kuwait	125	History	Other History		Penn B	Nitin Rao	10	67	0.536			
 2018-01-20	Penn State	3	8	H	3	Rebecca Solnit	141	Literature	Miscellaneous Lit		Penn B	Margaret Tebbe	10	141	1.0			
 2018-01-20	Penn State	3	8	H	5	Wallace Stevens	151	Literature	Non-Epic Poetry		Penn B	Jacob Dubner	10	136	0.901			
@@ -5961,7 +5961,7 @@ question_set_edition	tournament	room	round	packet	tossup	answer	words	category	s
 2018-01-20	Penn State	4	6	F	8	Yasunari Kawabata	161	Literature	Long Fiction		Johns Hopkins B	Walter Zhao	10	94	0.584			
 2018-01-20	Penn State	4	6	F	9	sand dunes	140	Science	Other Science	Earth Science	Johns Hopkins B	Joseph Cleary	10	78	0.557			
 2018-01-20	Penn State	4	6	F	10	Tudor dynasty	131	History	British, Canadian, Australian, New Zealand History		Johns Hopkins B	Forrest Hammel	10	109	0.832			
-2018-01-20	Penn State	4	6	F	11	asbestos	136	Other	Other Academic		Johns Hopkins B	Forrest Hammel	10	80	0.588			
+2018-01-20	Penn State	4	6	F	11	asbestos	136	Other	Other Academic		Johns Hopkins B	Walter Zhao	10	80	0.588			
 2018-01-20	Penn State	4	6	F	13	inversion symmetry	129	Science	Chemistry		Johns Hopkins B	Walter Zhao	10	129	1.0	bounceback		
 2018-01-20	Penn State	4	6	F	14	Pauline epistles	155	RMPSS	Religion		Johns Hopkins B	Walter Zhao	10	155	1.0			
 2018-01-20	Penn State	4	6	F	15	two	130	Science	Physics		Johns Hopkins B	Walter Zhao	10	95	0.731			

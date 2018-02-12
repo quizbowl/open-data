@@ -5240,25 +5240,25 @@ question_set_edition	tournament	room	round	packet	bonus	answer1	answer2	answer3	
 2018-01-20	Penn State	7	4	I	18	method of Frobenius	second order	singular point	Science	Other Science	Math	Rochester	0	10	0
 2018-01-20	Penn State	7	4	I	19	Muscovy Company	Ivan the Terrible	Arkhangelsk	History	Continental European History (post-600 CE)		Kenyon	0	10	0
 2018-01-20	Penn State	7	5	D	1	“The Star-Apple Kingdom”	Derek Walcott	Africa	Literature	Non-Epic Poetry		Carnegie Mellon A	0	10	10
-2018-01-20	Penn State	7	5	D	2	Nidhogg	dragon	Gesta Danorum	RMPSS	Mythology		Carnegie Mellon A	10	0	0
-2018-01-20	Penn State	7	5	D	3	titration	back titration	saponification	Science	Chemistry		Carnegie Mellon A	10	10	10
-2018-01-20	Penn State	7	5	D	4	Stations of the Cross	garden	Simon of Cyrene	RMPSS	Religion		Delaware	0	10	0
-2018-01-20	Penn State	7	5	D	5	condottieri	House of Sforza	white	History	Continental European History (post-600 CE)		Delaware	0	10	10
-2018-01-20	Penn State	7	5	D	6	Paul Gauguin	Tahiti	Olympia	Arts	Painting/Sculpture		Carnegie Mellon A	10	0	0
-2018-01-20	Penn State	7	5	D	7	Kobo Abe	Nora Ephron	Alan Ayckbourn	Literature	Drama		Delaware	0	10	0
-2018-01-20	Penn State	7	5	D	8	distance	Hamming code	parity	Science	Other Science	Computer Science	Delaware	10	0	10
-2018-01-20	Penn State	7	5	D	9	tribune	Clodius Pulcher	Tigranes	History	Continental or Near Eastern History (pre-600 CE)		Delaware	0	10	10
-2018-01-20	Penn State	7	5	D	10	The Nose	Dmitri Shostakovich	Wozzeck	Arts	Other Art	Opera	Carnegie Mellon A	0	0	0
-2018-01-20	Penn State	7	5	D	11	“Winter Dreams”	F. Scott Fitzgerald	Babylon	Literature	Short Fiction		Carnegie Mellon A	0	0	10
-2018-01-20	Penn State	7	5	D	12	Hulagu Khan	mamluks	chivalry	History	Other History		Delaware	0	10	0
-2018-01-20	Penn State	7	5	D	13	frequency	supersymmetric theories	all over 2	Science	Physics		Delaware	0	0	10
-2018-01-20	Penn State	7	5	D	14	externalism	Hilary Putnam	John Dewey	RMPSS	Philosophy		Delaware	10	10	0
+2018-01-20	Penn State	7	5	D	3	titration	back titration	saponification	Science	Chemistry		Carnegie Mellon A	10	0	0
+2018-01-20	Penn State	7	5	D	4	Stations of the Cross	garden	Simon of Cyrene	RMPSS	Religion		Carnegie Mellon A	10	10	10
+2018-01-20	Penn State	7	5	D	5	condottieri	House of Sforza	white	History	Continental European History (post-600 CE)		Delaware	0	10	0
+2018-01-20	Penn State	7	5	D	6	Paul Gauguin	Tahiti	Olympia	Arts	Painting/Sculpture		Delaware	0	10	10
+2018-01-20	Penn State	7	5	D	7	Kobo Abe	Nora Ephron	Alan Ayckbourn	Literature	Drama		Carnegie Mellon A	10	0	0
+2018-01-20	Penn State	7	5	D	8	distance	Hamming code	parity	Science	Other Science	Computer Science	Delaware	0	10	0
+2018-01-20	Penn State	7	5	D	9	tribune	Clodius Pulcher	Tigranes	History	Continental or Near Eastern History (pre-600 CE)		Delaware	10	0	10
+2018-01-20	Penn State	7	5	D	10	The Nose	Dmitri Shostakovich	Wozzeck	Arts	Other Art	Opera	Delaware	0	10	10
+2018-01-20	Penn State	7	5	D	11	“Winter Dreams”	F. Scott Fitzgerald	Babylon	Literature	Short Fiction		Carnegie Mellon A	0	0	0
+2018-01-20	Penn State	7	5	D	12	Hulagu Khan	mamluks	chivalry	History	Other History		Carnegie Mellon A	0	0	10
+2018-01-20	Penn State	7	5	D	13	frequency	supersymmetric theories	all over 2	Science	Physics		Delaware	0	10	0
+2018-01-20	Penn State	7	5	D	14	externalism	Hilary Putnam	John Dewey	RMPSS	Philosophy		Delaware	0	0	10
 2018-01-20	Penn State	7	5	D	15	John C. Fremont	“Kit” Carson	Bozeman Trail	History	US History		Delaware	10	10	0
 2018-01-20	Penn State	7	5	D	16	Kazuo Ishiguro	solar eclipse	Jurgen, A Comedy of Justice	Literature	Long Fiction		Delaware	10	10	0
-2018-01-20	Penn State	7	5	D	17	potassium	ATP	leak channels	Science	Biology		Carnegie Mellon A	10	10	0
-2018-01-20	Penn State	7	5	D	18	Matterhorn	casinos	Gotthard Base Tunnel	Other	Geography		Delaware	10	10	10
-2018-01-20	Penn State	7	5	D	19	Sakhalin Island	Korean	Altaic languages	RMPSS	Social Science		Delaware	10	0	0
-2018-01-20	Penn State	7	5	D	20	guitar	Heitor Villa-Lobos	Miguel Llobet	Arts	Music		Delaware	0	10	0
+2018-01-20	Penn State	7	5	D	17	potassium	ATP	leak channels	Science	Biology		Delaware	10	10	0
+2018-01-20	Penn State	7	5	D	18	Matterhorn	casinos	Gotthard Base Tunnel	Other	Geography		Carnegie Mellon A	10	10	0
+2018-01-20	Penn State	7	5	D	19	Sakhalin Island	Korean	Altaic languages	RMPSS	Social Science		Delaware	10	10	10
+2018-01-20	Penn State	7	5	D	20	guitar	Heitor Villa-Lobos	Miguel Llobet	Arts	Music		Delaware	10	0	0
+2018-01-20	Penn State	7	5	Q	1	Adela Alba	Federico Garcia Lorca	Fernando Arrabal	Literature	Drama		Delaware	0	10	0
 2018-01-20	Penn State	7	6	F	1	Rurik	Kiev	Hypatian Monastery	History	Continental European History (post-600 CE)		Johns Hopkins C	0	10	0
 2018-01-20	Penn State	7	6	F	2	schwa	determiner	binary relation	RMPSS	Social Science		Johns Hopkins C	10	10	0
 2018-01-20	Penn State	7	6	F	3	parallel keys	enharmonic	voice leading	Arts	Music		Penn C	0	0	0
